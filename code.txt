@@ -1,0 +1,1 @@
+测试在跟踪smart分支时，修改本地master分支并提交后再push会使远程master分支同步吗
