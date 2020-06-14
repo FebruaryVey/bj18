@@ -6,3 +6,6 @@ def index(request):
 
 def login(request):
     pass
+
+def test:
+    pass
